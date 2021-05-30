@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430732519618",
+    "project_id": "venomchat-cb01b",
+    "storage_bucket": "venomchat-cb01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430732519618:android:64fbdc5019e95888bbb35b",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430732519618-d0uqfgjl88etepnao970laeplavllare.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ja7EMK2zHP6nWJ4JdDtostAxzsknyck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430732519618-d0uqfgjl88etepnao970laeplavllare.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
